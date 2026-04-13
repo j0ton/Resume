@@ -1,11 +1,10 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Jamie Norton",
     "label": "Programmer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
+    "email": "j@mie.norton.nz",
+    "url": "https://norton.nz",
     "summary": "A summary of John Doe…",
     "location": {
       "address": "2712 Broadway St",
@@ -15,71 +14,129 @@
       "region": "California"
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "network": "LinkedIn",
+      "username": "j0ton",
+      "url": "https://linkedin.com/in/j0ton"
     }]
   },
-  "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
+  "work": [
+    {
+      "name": "One New Zealand Limited",
+      "position": "Senior Software Developer Team Lead",
+      "url": "https://one.nz/",
+      "startDate": "2023-04-01",
+      "endDate": null,
+      "summary": "Architect/Develop website portal for Vodafone Sales/Solution Designers/Customer care teams to access required information etc.",
+      "highlights": [
+          "Starlink integration for improved connectivity and performance.",
+          "Present GIS data on maps for enhanced visualisation and decision-making.",
+          "Lead a team of 4 developers to deliver high-quality software solutions on time and within budget.",
+          "Implemented Agile methodologies to improve team productivity and collaboration.",
+          "Mentored junior developers and provided technical guidance to ensure code quality and best practices.",
+          "Collaborated with cross-functional teams to define project requirements and deliver innovative solutions that meet business needs.",
+          "Successfully delivered multiple projects that resulted in increased customer satisfaction and revenue growth."
+      ]
+    },
+    {
+      "name": "Vodafone New Zealand Limited",
+      "position": "Senior Software Developer",
+      "url": "https://vodafone.nz/",
+      "startDate": "2019-11-01",
+      "endDate": "2023-03-31",
+      "summary": "Architect/Develop website portal for Vodafone Sales/Solution Designers/Customer care teams to access required information etc.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Vodafone Next Generation Services Ltd",
+      "position": "Senior Software Developer",
+      "url": "https://vngs.co.nz/",
+      "startDate": "2015-09-01",
+      "endDate": "2019-11-01",
+      "summary": "Architect/Develop website portal for Vodafone Sales/Solution Designers/Customer care teams to access required information etc.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Sulaco Technology Ltd",
+      "position": "Senior Developer",
+      "url": "https://sulaco.co.nz/",
+      "startDate": "2011-04-01",
+      "endDate": "2015-09-01",
+      "summary": "Develop various website portals for customers self-service and reporting etc.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "WXC Communications",
+      "position": "Web Systems Developer",
+      "url": "https://wxc.co.nz/",
+      "startDate": "2009-12-01",
+      "endDate": "2011-04-01",
+      "summary": "Create customer self-service portal where users can manage: Internet Services, VOIP Phone features, Account payments",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Self Employed",
+      "position": "Web Developer",
+      "url": "https://norton.nz/",
+      "startDate": "2007-12-01",
+      "endDate": "2009-12-01",
+      "summary": "<b>July 2009 - Dec 2009</b>: Full time contractor at Sparks Interactive as PHP and HTML/CSS/Javascript developer, working on Sorted.org.nz and RealEstate.co.nz</p><p><b>Jan 2009 - Feb 2009</b>: Contracted to NetConcepts as a PHP developer working on Zoodle</p><p><b>April 2008 - July 2008</b>: Contracted to NetConcepts as a PHP developer Providing ongoing maintenance, development and support for current clients",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Orcon",
+      "position": "Web Developer",
+      "url": "https://orcon.net.nz/",
+      "startDate": "2006-02-01",
+      "endDate": "2007-12-01",
+      "summary": "<ul><li>Developed various internal websites (on top of Zend Framework) to be used by multiple departments within Orcon</li><li>Responsible for maintaining various company websites both external and internal</li><li>Consult with customers and create solutions to meet their requirements</li><li>Providing ongoing maintenance, development and support Develop e-commerce sites, internal CRM</li><li>Provide support/advice for fellow developers</li></ul>",
+      "highlights": [
+      ]
+    }
+  ],
   "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
+    "institution": "Massey University",
+    "url": "https://massey.ac.nz/",
+    "area": "Bachelor of Information Sciences - Joint Major Computer Science & Mathematics",
     "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "startDate": "1997-01-01",
+    "endDate": "1999-01-01"
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "title": "Institute of Information &amp; Mathematical Sciences Postgraduate Scholarship",
+    "date": "1999-01-01",
+    "awarder": "Massey University"
   }],
   "skills": [{
     "name": "Web Development",
     "level": "Master",
     "keywords": [
+      "Python",
+      "Django",
+      "React",
       "HTML",
       "CSS",
-      "JavaScript"
+      "JavaScript",
+      "Typescript",
+      "SQL",
+      "PostgreSQL",
+      "MySQL",
+      "Memcached"
+    ]
+  },
+  {
+    "name": "DevOps",
+    "level": "Intermediate",
+    "keywords": [
+      "Docker",
+      "AWS",
+      "Gitlab",
+      "CI/CD",
+      "Bash"
     ]
   }],
   "languages": [{
@@ -87,24 +144,7 @@
     "fluency": "Native speaker"
   }],
   "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [{
-    "name": "Project",
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "description": "Description...",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "url": "https://project.com/"
+    "name": "Surfing",
+    "keywords": []
   }]
 }
