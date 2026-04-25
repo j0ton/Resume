@@ -4,7 +4,7 @@
   "scripts": {
     "init": "resumed init",
     "html": "resumed --theme jsonresume-theme-even",
-    "pdf": "resumed export --theme jsonresume-theme-even --output resume.pdf"
+    "pdf": "resumed export --theme jsonresume-theme-even --puppeteer-arg=\"--no-sandbox\" --output resume.pdf"
   },
   "dependencies": {
     "jsonresume-theme-even": "^0.26.1",
