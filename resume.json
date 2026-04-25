@@ -134,6 +134,9 @@
       "Typescript",
       "SQL",
       "PostgreSQL",
+      "PostGIS",
+      "SAML",
+      "OIDC",
       "MySQL",
       "Memcached"
     ]
