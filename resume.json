@@ -29,7 +29,7 @@
       "url": "https://one.nz/",
       "startDate": "2023-04-01",
       "endDate": null,
-      "summary": "*Vodafone NZ rebranded as One New Zealand Limited.* Architect/Develop/Maintain multiple website portals for both internal (Sales/Solution Designers/Customer care teams) and external customers to access required information, provision/maintain services etc.",
+      "summary": "*Vodafone NZ rebranded as One New Zealand Limited April 2023.* Architect/Develop/Maintain multiple website portals for both internal (Sales/Solution Designers/Customer care teams) and external (Enterprise/Government, SME & Residential) customers to access required information, provision/maintain services etc.",
       "highlights": [
           "Starlink integration for improved connectivity and performance.",
           "Present GIS data on maps for enhanced visualisation and decision-making.",
@@ -113,8 +113,8 @@
     "url": "https://massey.ac.nz/",
     "area": "Bachelor of Information Sciences - Joint Major Computer Science & Mathematics",
     "studyType": "Bachelor",
-    "startDate": "1997-01-01",
-    "endDate": "2000-01-31"
+    "startDate": "1997",
+    "endDate": "2000"
   }],
   "awards": [{
     "title": "Institute of Information &amp; Mathematical Sciences Postgraduate Scholarship",
