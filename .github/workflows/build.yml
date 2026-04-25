@@ -1,0 +1,39 @@
+# This workflow will build resume in html and pdf formats when a commit is pushed to your default branch.
+#
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+env:
+  NODE_VERSION: '20.x'                # set this to the node version to use
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ env.NODE_VERSION }}
+        cache: 'npm'
+
+    - name: npm install, build, and test
+      run: |
+        npm install
+        npm run html
+        npm run pdf
+
+    - name: Upload resume artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: resume-artifacts
+        path: |
+          resume.html
+          resume.pdf
+    
