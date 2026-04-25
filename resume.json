@@ -1,22 +1,25 @@
 {
   "basics": {
     "name": "Jamie Norton",
-    "label": "Programmer",
+    "label": "Senior Software Developer & Team Lead",
     "image": "",
     "email": "j@mie.norton.nz",
     "url": "https://norton.nz",
-    "summary": "A summary of John Doe…",
+    "summary": "I specialise in Python using Django and have tons of experience as a true Full-Stack developer. I've professional experience containerising web apps using Docker, creating and using CI/CD pipelines in Gitlab to deploy into AWS infrastructure provisioned using AWS CDK.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Auckland",
+      "countryCode": "NZ",
+      "region": "Auckland"
     },
     "profiles": [{
       "network": "LinkedIn",
       "username": "j0ton",
       "url": "https://linkedin.com/in/j0ton"
+    },
+    {
+      "network": "Github",
+      "username": "j0ton",
+      "url": "https://github.com/j0ton"
     }]
   },
   "work": [
@@ -26,12 +29,11 @@
       "url": "https://one.nz/",
       "startDate": "2023-04-01",
       "endDate": null,
-      "summary": "Architect/Develop website portal for Vodafone Sales/Solution Designers/Customer care teams to access required information etc.",
+      "summary": "*Vodafone NZ rebranded as One New Zealand Limited.* Architect/Develop/Maintain multiple website portals for both internal (Sales/Solution Designers/Customer care teams) and external customers to access required information, provision/maintain services etc.",
       "highlights": [
           "Starlink integration for improved connectivity and performance.",
           "Present GIS data on maps for enhanced visualisation and decision-making.",
           "Lead a team of 4 developers to deliver high-quality software solutions on time and within budget.",
-          "Implemented Agile methodologies to improve team productivity and collaboration.",
           "Mentored junior developers and provided technical guidance to ensure code quality and best practices.",
           "Collaborated with cross-functional teams to define project requirements and deliver innovative solutions that meet business needs.",
           "Successfully delivered multiple projects that resulted in increased customer satisfaction and revenue growth."
@@ -63,7 +65,7 @@
       "url": "https://sulaco.co.nz/",
       "startDate": "2011-04-01",
       "endDate": "2015-09-01",
-      "summary": "Develop various website portals for customers self-service and reporting etc.",
+      "summary": "*Sulaco Technology Ltd & WXC Communications acquired by Vodafone NZ.* Develop various website portals for customers self-service and reporting etc.",
       "highlights": [
       ]
     },
@@ -83,8 +85,11 @@
       "url": "https://norton.nz/",
       "startDate": "2007-12-01",
       "endDate": "2009-12-01",
-      "summary": "<b>July 2009 - Dec 2009</b>: Full time contractor at Sparks Interactive as PHP and HTML/CSS/Javascript developer, working on Sorted.org.nz and RealEstate.co.nz</p><p><b>Jan 2009 - Feb 2009</b>: Contracted to NetConcepts as a PHP developer working on Zoodle</p><p><b>April 2008 - July 2008</b>: Contracted to NetConcepts as a PHP developer Providing ongoing maintenance, development and support for current clients",
+      "summary": "Contracted to various companies as a PHP developer working on various projects",
       "highlights": [
+        "**July 2009 - Dec 2009**: Full time contractor at Sparks Interactive as PHP and HTML/CSS/Javascript developer, working on Sorted.org.nz and RealEstate.co.nz",
+        "**Jan 2009 - Feb 2009**: Contracted to NetConcepts as a PHP developer working on Zoodle",
+        "**April 2008 - July 2008**: Contracted to NetConcepts as a PHP developer Providing ongoing maintenance, development and support for current clients"
       ]
     },
     {
@@ -93,8 +98,13 @@
       "url": "https://orcon.net.nz/",
       "startDate": "2006-02-01",
       "endDate": "2007-12-01",
-      "summary": "<ul><li>Developed various internal websites (on top of Zend Framework) to be used by multiple departments within Orcon</li><li>Responsible for maintaining various company websites both external and internal</li><li>Consult with customers and create solutions to meet their requirements</li><li>Providing ongoing maintenance, development and support Develop e-commerce sites, internal CRM</li><li>Provide support/advice for fellow developers</li></ul>",
+      "summary": "",
       "highlights": [
+        "Developed various internal websites (on top of Zend Framework) to be used by multiple departments within Orcon",
+        "Responsible for maintaining various company websites both external and internal",
+        "Consult with customers and create solutions to meet their requirements",
+        "Providing ongoing maintenance, development and support Develop e-commerce sites, internal CRM",
+        "Provide support/advice for fellow developers"
       ]
     }
   ],
@@ -104,7 +114,7 @@
     "area": "Bachelor of Information Sciences - Joint Major Computer Science & Mathematics",
     "studyType": "Bachelor",
     "startDate": "1997-01-01",
-    "endDate": "1999-01-01"
+    "endDate": "2000-01-31"
   }],
   "awards": [{
     "title": "Institute of Information &amp; Mathematical Sciences Postgraduate Scholarship",
