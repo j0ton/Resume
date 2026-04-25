@@ -3,7 +3,7 @@
   "type": "module",
   "scripts": {
     "init": "resumed init",
-    "start": "resumed --theme jsonresume-theme-even",
+    "html": "resumed --theme jsonresume-theme-even",
     "pdf": "resumed export --theme jsonresume-theme-even --output resume.pdf"
   },
   "dependencies": {
