@@ -113,8 +113,8 @@
     "url": "https://massey.ac.nz/",
     "area": "Bachelor of Information Sciences - Joint Major Computer Science & Mathematics",
     "studyType": "Bachelor",
-    "startDate": "1997",
-    "endDate": "2000"
+    "startDate": "1997-01-01",
+    "endDate": "2000-01-31"
   }],
   "awards": [{
     "title": "Institute of Information &amp; Mathematical Sciences Postgraduate Scholarship",
