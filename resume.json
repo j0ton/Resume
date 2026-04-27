@@ -31,12 +31,12 @@
       "endDate": null,
       "summary": "*Vodafone NZ rebranded as One New Zealand Limited April 2023.* Architect/Develop/Maintain multiple website portals for both internal (Sales/Solution Designers/Customer care teams) and external (Enterprise/Government, SME & Residential) customers to access required information, provision/maintain services etc.",
       "highlights": [
-          "Starlink integration for improved connectivity and performance.",
-          "Present GIS data on maps for enhanced visualisation and decision-making.",
-          "Lead a team of 4 developers to deliver high-quality software solutions on time and within budget.",
+          "Lead a small team of developers to deliver high-quality software solutions on time and within budget.",
           "Mentored junior developers and provided technical guidance to ensure code quality and best practices.",
           "Collaborated with cross-functional teams to define project requirements and deliver innovative solutions that meet business needs.",
-          "Successfully delivered multiple projects that resulted in increased customer satisfaction and revenue growth."
+          "Successfully delivered multiple projects that resulted in increased customer satisfaction and revenue growth.",
+          "3rd-party integrations with Starlink, Webex/Broadsoft, Ribbon Analytics, Dubber etc for improved connectivity and performance.",
+          "Present GIS data layers on maps for enhanced visualisation and decision-making used by EonFibre and it's customers."
       ]
     },
     {
@@ -47,6 +47,9 @@
       "endDate": "2023-03-31",
       "summary": "Architect/Develop website portal for Vodafone Sales/Solution Designers/Customer care teams to access required information etc.",
       "highlights": [
+        "Migrate onprem web applications to AWS and Gitlab CI/CD pipelines to deploy applications",
+        "Create and maintain internal Python packages to be used across multiple applications",
+        "Create and maintain internal Docker images to be used across multiple applications"
       ]
     },
     {
@@ -55,7 +58,7 @@
       "url": "https://vngs.co.nz/",
       "startDate": "2015-09-01",
       "endDate": "2019-11-01",
-      "summary": "Architect/Develop website portal for Vodafone Sales/Solution Designers/Customer care teams to access required information etc.",
+      "summary": "Architect/Develop website portal for Vodafone Sales/Solution Designers/Customer care teams and external (Enterprise/Government, SME & Residential) customers to access required information etc.",
       "highlights": [
       ]
     },
