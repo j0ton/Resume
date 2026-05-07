@@ -5,7 +5,7 @@
     "image": "",
     "email": "j@mie.norton.nz",
     "url": "https://norton.nz",
-    "summary": "I specialise in Python using Django and have tons of experience as a true Full-Stack developer. I've professional experience containerising web apps using Docker, creating and using CI/CD pipelines in Gitlab to deploy into AWS infrastructure provisioned using AWS CDK.",
+    "summary": "I specialise in Python using Django and Typescript with React. I have tons of experience as a true Full-Stack developer. I've professional experience containerising web apps using Docker, creating and using CI/CD pipelines in Gitlab to deploy into AWS infrastructure provisioned using AWS CDK.",
     "location": {
       "city": "Auckland",
       "countryCode": "NZ",
