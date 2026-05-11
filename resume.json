@@ -124,49 +124,58 @@
     "date": "1999-12-01",
     "awarder": "Massey University"
   }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "Python",
-      "Django",
-      "React",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Typescript",
-      "SQL",
-      "Linux",
-      "MacOS",
-      "NGINX",
-      "Apache",
-      "uWSGI",
-      "PostgreSQL",
-      "PostGIS",
-      "SAML",
-      "OIDC",
-      "MySQL",
-      "Memcached"
-    ]
-  },
-  {
-    "name": "DevOps",
-    "level": "Intermediate",
-    "keywords": [
-      "Docker",
-      "AWS",
-      "Gitlab",
-      "CI/CD",
-      "Bash"
-    ]
-  }],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": [
+        "React",
+        "Typescript",
+        "JavaScript",
+        "HTML / JSX",
+        "CSS (Tailwind, SCSS, Less)",
+        "MUI"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "Python",
+        "NGINX / Apache",
+        "uWSGI / Gunicorn",
+        "SQL",
+        "PostgreSQL / PostGIS",
+        "MySQL / MariaDB",
+        "REST APIs",
+        "Memcached",
+        "Django",
+        "SAML",
+        "OAuth / OIDC"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker",
+        "AWS",
+        "Gitlab",
+        "CI/CD Pipelines",
+        "Linux admin",
+        "bash / zsh"
+      ]
+    }
+  ],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
   }],
   "interests": [{
-    "name": "Surfing",
-    "keywords": []
+    "name": "Sports / Recreation",
+    "keywords": [
+      "Surfing", "Bike riding"
+    ]
   }]
 
 }
